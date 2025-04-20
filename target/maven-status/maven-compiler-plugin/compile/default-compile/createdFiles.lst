@@ -1,0 +1,12 @@
+js2j\JSFunctionProcessor.class
+js2j\JSStatementProcessor.class
+js2j\JSClassProcessor.class
+js2j\JSControlFlowProcessor.class
+js2j\JSNodeConverter.class
+js2j\JSParser.class
+js2j\JSExpressionProcessor.class
+js2j\JSTypeUtils.class
+js2j\Main.class
+js2j\JSObjectProcessor.class
+js2j\JavaScriptToJavaConverter.class
+js2j\JSSourcePreprocessor.class
